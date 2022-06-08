@@ -41,6 +41,7 @@ print(wagner)
 
 ### Learning right now:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)&nbsp;
 
 ### Interested areas:
 ![Django](https://img.shields.io/badge/Django-05122A?style=for-the-badge&logo=django&logoColor=white)&nbsp;

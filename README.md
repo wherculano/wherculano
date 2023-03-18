@@ -46,8 +46,9 @@ print(wagner)
 
 ### Learning right now:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![NodeJs](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![NodeJs](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)    
 ![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-05122A?style=for-the-badge&logo=spring&logoColor=white)    
 ![Go](https://img.shields.io/badge/Go-05122A?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 
 ### Interested areas:

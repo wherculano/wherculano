@@ -16,7 +16,7 @@ print(wagner)
 
 ### About me
 <p>
-    More than 3 years studying Python language and 1 year working as a Python Developer (Jan/2022).
+    More than 4 years studying Python language and 2 years working as a Python Developer (Mar/2023).
 <p>
     I have a degree in Information Systems (2010/2013), but I have worked for over 7 years as a Financial Analyst.
     I took a lot of Python Courses: Back End with Django, DRF and Flask, Machine Learn and Data Science with Numpy, Scikit-Learn and Pandas, Games with PyGame and Scraping with Selenium, Requests and BeautifulSoup.
@@ -30,6 +30,7 @@ print(wagner)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Gitlab](https://img.shields.io/badge/GitLab-05122A?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-05122a?style=for-the-badge&logo=linux)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;
@@ -38,10 +39,16 @@ print(wagner)
 ![Heroku](https://img.shields.io/badge/Heroku-05122a?style=for-the-badge&logo=heroku&logoColor=007ACC)&nbsp;
 ![TDD](https://img.shields.io/badge/tdd-05122A?style=for-the-badge&logo=tdd&logoColor=007ACC)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-05122A?style=for-the-badge&logo=docker)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-05122A?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Insomnia](https://img.shields.io/badge/Insomnia-05122A?style=for-the-badge&logo=Insomnia&logoColor=white)&nbsp;
+![JSON](https://img.shields.io/badge/JSON-05122A?style=for-the-badge&logo=json&logoColor=white)&nbsp;
 
 ### Learning right now:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)&nbsp;
+![NodeJs](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-05122A?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 
 ### Interested areas:
 ![Django](https://img.shields.io/badge/Django-05122A?style=for-the-badge&logo=django&logoColor=white)&nbsp;

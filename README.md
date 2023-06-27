@@ -10,7 +10,7 @@ class AboutMe:
     def __repr__(self):
         return f'AboutMe({self.name}, {self.age}, {self.work})'
 
-wagner = AboutMe('Wagner Herculano dos Santos', 33, 'Python Developer')
+wagner = AboutMe('Wagner Herculano dos Santos', 34, 'Python Developer')
 print(wagner)
 ```
 
@@ -54,6 +54,7 @@ print(wagner)
 ### Interested areas:
 ![Django](https://img.shields.io/badge/Django-05122A?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-05122A?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=for-the-badge&logo=fastapi)&nbsp;
 ![Selenium](https://img.shields.io/badge/Selenium-05122A?style=for-the-badge&logo=selenium)&nbsp;
 
 ### GitHub Analytics:

@@ -10,7 +10,7 @@ class AboutMe:
     def __repr__(self):
         return f'AboutMe({self.name}, {self.age}, {self.work})'
 
-wagner = AboutMe('Wagner Herculano dos Santos', 34, 'Python Developer')
+wagner = AboutMe('Wagner Herculano dos Santos', 35, 'Python Developer')
 print(wagner)
 ```
 

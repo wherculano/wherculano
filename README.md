@@ -16,8 +16,9 @@ print(wagner)
 
 ### About me
 <p>
-    More than 4 years studying Python language and 3+ years working as a Python Developer (Dez/2023).<br>
-    I have a degree in Information Systems (2010/2013), but I have worked for over 7 years as a Financial Analyst.<br>
+    More than 7 years studying Python language and 5+ years working as a Python Developer.<br>
+    I have a <strong>Bachelor</strong> degree in Information Systems (2010/2013), <strong>MBA</strong> in Software Engineer (2024/2025).<br>
+    I also have worked for over 7 years as a Financial Analyst (2013/2020).<br>
     I took a lot of Python Courses: Back End with Django, DRF, Flask and FastAPI, Machine Learn and Data Science with Numpy, Scikit-Learn and Pandas, Games with PyGame and Scraping with Selenium, Requests and BeautifulSoup.</p>    
     
 ---    
@@ -52,7 +53,8 @@ print(wagner)
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-05122A?style=for-the-badge&logo=Insomnia&logoColor=white)&nbsp;
 
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-05122a?style=for-the-badge&logo=rabbitmq&logoColor=007ACC)&nbsp;    
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-05122a?style=for-the-badge&logo=rabbitmq&logoColor=007ACC)&nbsp;
+![Kafka](https://img.shields.io/badge/Kafka-05122a?style=for-the-badge&logo=kafka&logoColor=007ACC)&nbsp;    
 
 ![TDD](https://img.shields.io/badge/tdd-05122A?style=for-the-badge&logo=tdd&logoColor=007ACC)&nbsp;
 ![TravisCI](https://img.shields.io/badge/travis%20ci-05122A?style=for-the-badge&logo=travis&logoColor=007ACC)&nbsp;

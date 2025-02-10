@@ -10,14 +10,14 @@ class AboutMe:
     def __repr__(self):
         return f'AboutMe({self.name}, {self.age}, {self.work})'
 
-wagner = AboutMe('Wagner Herculano dos Santos', 35, 'Python Developer')
+wagner = AboutMe('Wagner Herculano dos Santos', 36, 'Python Developer')
 print(wagner)
 ```
 
 ### About me
 <p>
     More than 7 years studying Python language and 5+ years working as a Python Developer.<br>
-    I have a <strong>Bachelor</strong> degree in Information Systems (2010/2013), <strong>MBA</strong> in Software Engineer (2024/2025).<br>
+    I have a <strong>Bachelor</strong> degree in <i>Information Systems</i> (2010/2013) and a <strong>MBA</strong> in <i>Software Engineer</i> (2024/2025).<br>
     I also have worked for over 7 years as a Financial Analyst (2013/2020).<br>
     I took a lot of Python Courses: Back End with Django, DRF, Flask and FastAPI, Machine Learn and Data Science with Numpy, Scikit-Learn and Pandas, Games with PyGame and Scraping with Selenium, Requests and BeautifulSoup.</p>    
     

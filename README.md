@@ -17,7 +17,7 @@ print(wagner)
 ### About me
 <p>
     I started studying Python in 2017, but I've been working professionally with it since 2020.<br>
-    I have a <strong>Bachelor</strong> degree in <i>Information Systems</i> (2010/2013) and a <strong>MBA</strong> in <i>Software Engineer</i> (2024/2025).<br>
+    I have a <strong>Bachelor's</strong> degree in <i>Information Systems</i> (2010/2013) and a <strong>postgraduate</strong> in <i>Software Engineering and Architecture</i> (2024/2025).<br>
     I also have worked for over 7 years as a Financial Analyst (2013/2020).<br>
     I took a lot of Python Courses: Back End with Django, DRF, Flask and FastAPI, Machine Learn and Data Science with Numpy, Scikit-Learn and Pandas, Games with PyGame and Scraping with Selenium, Requests and BeautifulSoup.</p>    
     
